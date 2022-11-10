@@ -1,4 +1,4 @@
-# TFG-MANETS
+# MANETs Routing Protocols with Minenet Wifi
 In this Final Degree Project, a study of dynamic routing protocols in MANETs networks has been carried out. 
 
 A series of mobility scenarios have been designed for the WiFi network emulator Mininet WiFi and a series of Python scripts have been designed
