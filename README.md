@@ -5,4 +5,4 @@ A series of mobility scenarios have been designed for the WiFi network emulator 
 for the analysis of the data resulting from the tests. 
 In this repository are uploaded the scripts and the data resulting from the aforementioned tests so that they can be read, studied and/or reused.
 
-
+Score: 9.5/10
